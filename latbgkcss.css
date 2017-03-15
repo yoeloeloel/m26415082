@@ -1,0 +1,13 @@
+#container{margin-left : 8%;margin-right: 8%}
+header{height: 80px;background-color: red;}
+footer{height: 80px;background-color: black;
+		color: white}
+#top-section{height: 120px;width: 100%;}
+#left-section{width: 50%;height: 120px;background-color: green;
+				float: left;}
+#right-section{width: 50%;height: 120px;background-color: yellow;
+				float: left;}
+#left-div{width: 50%;height: 120px;background-color: orange;
+				float: left;}
+#right-div{width: 50%;height: 120px;background-color: blue;
+				float: left;}
